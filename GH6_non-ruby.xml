@@ -1,0 +1,29 @@
+<body>
+    <ab type="長歌" xml:id="manyo0131">
+        <lb/>
+        <seg type="ruby" xml:id="seg00007">
+            <seg type="rb" xml:id="seg00008"> <note place="right" resp="#定家" subtype="摘句"
+                targetEnd="#note0175e" type="合点" xml:id="note00175"
+                >〽石見乃海つのヽうらわ</note>石見乃海角乃浦廻乎浦無等人社見良目瀉 <note place="right" resp="#定家"
+                targetEnd="#note00176e" type="異文">無</note> 无 <anchor type="noteEnd"
+                xml:id="note00176e"/> 等 <anchor type="noteEnd" xml:id="note0175e"/> <note
+                resp="#万葉集" type="割書" xml:id="note00177">一云礒 <milestone unit="wbr"/> 无登</note> </seg>
+            <seg rend="left" type="rt" xml:id="seg00009">イハミノウミツノヽウラハ <note place="right" resp="#定家"
+                type="異訓" xml:id="note00178">ヲ</note> ニ <anchor type="noteEnd"/>
+                ウラナシトヒトコソミラメカタナシト</seg>
+        </seg>
+    </ab>
+    <ab type="長歌" xml:id="manyo0131">
+        <lb/>
+        <ruby xml:id="seg00007">
+            <rb xml:id="seg00008">石見乃海角乃浦廻乎浦無等人社見良目瀉无 <anchor type="noteEnd" xml:id="note00176e"/>等
+                <anchor type="noteEnd" xml:id="note0175e"/></rb>
+            <rt place="right" resp="#定家" type="合点" subtype="摘句" targetEnd="#note0175e" 
+                xml:id="note00175">〽石見乃海つのヽうらわ</rt>
+            <rt place="right" resp="#定家" type="異文" targetEnd="#note00176e">無</rt>
+            <rt rend="left" xml:id="seg00009" type="??">イハミノウミツノヽウラハ <note place="right" resp="#定家" type="異訓"
+                xml:id="note00178">ヲ</note> ニ <anchor type="noteEnd"/>ウラナシトヒトコソミラメカタナシト</rt>
+        </ruby>
+        <note resp="#万葉集" type="割書" xml:id="note00177"> 一云礒 <milestone unit="wbr"/> 无登</note>
+    </ab>
+</body>
